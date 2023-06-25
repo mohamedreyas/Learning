@@ -25,5 +25,12 @@ public class ClassD {
 		Assert.assertTrue(false);
 
 	}
+	
+	
+	@Test
+	private void tc5() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
