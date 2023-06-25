@@ -27,13 +27,20 @@ public class ClassD {
 	}
 	
 	
-	@Test
+	
+
 	private void df() {
 	System.out.println("123");	
 	}
 	
 	
 	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	@Test
+	private void tc5() {
 		// TODO Auto-generated method stub
 
 	}
